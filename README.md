@@ -7,13 +7,13 @@
            </head>
             <body>
 Łukasz Flisikowski
-<p align="right"> <font color="blue" size="7" face="Arial"> Łukasz </font> </p> <br>
-<p align="right"> <font color="blue" size="6" face="Arial"> Łukasz </font> </p> <br>
-<p align="right"> <font color="blue" size="5" face="Arial"> Łukasz </font> </p> <br>
-<p align="right"> <font color="blue" size="4" face="Arial"> Łukasz </font> </p> <br>
-<p align="right"> <font color="blue" size="3" face="Arial"> Łukasz </font> </p> <br>
-<p align="right"> <font color="blue" size="2" face="Arial"> Łukasz </font> </p> <br>
-<p align="right"> <font color="blue" size="1" face="Arial"> Łukasz </font> </p> <br>
+<p align="right"> <font color="blue" size="7" face="Arial"> Konrad </font> </p> <br>
+<p align="right"> <font color="blue" size="6" face="Arial"> Konrad </font> </p> <br>
+<p align="right"> <font color="blue" size="5" face="Arial"> Konrad </font> </p> <br>
+<p align="right"> <font color="blue" size="4" face="Arial"> Konrad </font> </p> <br>
+<p align="right"> <font color="blue" size="3" face="Arial"> Konrad </font> </p> <br>
+<p align="right"> <font color="blue" size="2" face="Arial"> Konrad </font> </p> <br>
+<p align="right"> <font color="blue" size="1" face="Arial"> Konrad </font> </p> <br>
 <h6> Ługowski </h1><br>
 <h5> Ługowski </h1><br>
 <h4> Ługowski </h1><br>
